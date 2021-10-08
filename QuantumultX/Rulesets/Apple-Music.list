@@ -1,0 +1,13 @@
+#Apple Music
+host-suffix, blobstore.apple.com, Apple Music
+host-suffix, itsliveradio.apple.com, Apple Music
+host-suffix, aodp-ssl.apple.com, Apple Music
+host-suffix, video-ssl.itunes.apple.com, Apple Music
+host-suffix, mvod.itunes.apple.com, Apple Music
+host-suffix, hls-amt.itunes.apple.com, Apple Music
+host-suffix, audio-ssl.itunes.apple.com, Apple Music
+host-suffix, streamingaudio.itunes.apple.com, Apple Music
+host-suffix, amazonaws.com, Apple Music
+host-suffix, audio.itunes.apple.com, Apple Music
+host-suffix, xp.apple.com, Apple Music
+host-suffix, guzzoni.apple.com, Apple Music
